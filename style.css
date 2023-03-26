@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+}
+p {
+  text-align: justify;
+}
+body {
+  background-color: white;
+  color: black;
+  font-family: Arial, serif;
+  font-size: small;
+}
+p.xd {
+  box-shadow: 3px 3px 3px;
+}
